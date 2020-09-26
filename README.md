@@ -1,1 +1,4 @@
-# practica1
+# Práctica1
+## Termodinámica
+## Electrónica
+## Bioquímica
